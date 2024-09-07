@@ -1,0 +1,49 @@
+
+[
+    {
+        "id":1,
+        "valstar":"5.00",
+        "Text":"California Sunset/Twilight BoatCruise",
+        "Data":"7 days 6 nights - Small group",
+        "Promition":"Promotion will end in",
+        "price":"$48.25",
+        "img":"../../../../../public/jouney/journey3.png"
+    },
+    {
+        "id":2,
+        "valstar":"5.00",
+        "Text":"California Sunset/Twilight BoatCruise",
+        "Data":"7 days 6 nights - Small group",
+        "Promition":"Promotion will end in",
+        "price":"$58.25",
+        "img":"../../../../../public/jouney/journey2.png"
+    },
+    {
+        "id":3,
+        "valstar":"5.00",
+        "Text":"California Sunset/Twilight BoatCruise",
+        "Data":"7 days 6 nights - Small group",
+        "Promition":"Promotion will end in",
+        "price":"$478.25",
+        "img":"../../../../../public/jouney/journey3.png"
+    },
+    {
+        "id":4,
+        "valstar":"5.00",
+        "Text":"California Sunset/Twilight BoatCruise",
+        "Data":"7 days 6 nights - Small group",
+        "Promition":"Promotion will end in",
+        "price":"$48.25",
+        "img":"../../../../../public/jouney/jouney4.png"
+    },
+    {
+        "id":5,
+        "valstar":"5.00",
+        "Text":"California Sunset/Twilight BoatCruise",
+        "Data":"7 days 6 nights - Small group",
+        "Promition":"Promotion will end in",
+        "price":"$48.25",
+        "img":"../../../../../public/jouney/jouney4.png"
+    }
+]
+

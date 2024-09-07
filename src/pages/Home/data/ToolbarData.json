@@ -1,0 +1,28 @@
+{
+        "cities": [
+          { "name": "New York", "code": "NY" },
+          { "name": "Rome", "code": "RM" },
+          { "name": "London", "code": "LDN" },
+          { "name": "Istanbul", "code": "IST" },
+          { "name": "Paris", "code": "PRS" }
+        ],
+        "categories": [
+          { "name": "Tours", "code": "T" },
+          { "name": "Hotels", "code": "H" },
+          { "name": "Flights", "code": "F" },
+          { "name": "Rental", "code": "R" }
+        ],
+        "activities": [
+          { "name": "Hiking", "code": "HIK" },
+          { "name": "Diving", "code": "DIV" },
+          { "name": "Sightseeing", "code": "SST" },
+          { "name": "Skiing", "code": "SKI" }
+        ],
+        "travelModes": [
+          { "name": "Car", "code": "CAR" },
+          { "name": "Plane", "code": "PLN" },
+          { "name": "Boat", "code": "BOT" },
+          { "name": "Train", "code": "TRN" }
+        ]
+      }
+      

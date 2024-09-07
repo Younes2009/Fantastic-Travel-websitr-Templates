@@ -1,0 +1,40 @@
+[
+    {
+        "id":1,
+        "img":"../../../../../public/Company/destination.png.png",
+        "heading":"4500+ Destination",
+        "Pargagraph":"Our expert team handpicked all destinations in this site",
+        "backColor":"#FEFA17",
+        "state":"drow",
+        "num":"one"
+
+    },
+    {
+        "id":2,
+        "img":"../../../../../public/Company/support.png.png",
+        "heading":"4500+ Destination",
+        "Pargagraph":"Our expert team handpicked all destinations in this site",
+        "backColor":"#FFF",
+        "state":"imagin",
+        "num":"one"
+
+    },
+    {
+        "id":3,
+        "img":"../../../../../public/Company/support.png.png",
+        "heading":"4500+ Destination",
+        "Pargagraph":"Our expert team handpicked all destinations in this site",
+        "backColor":"#FFF",
+        "state":"imagin",
+        "num":"two"
+    },
+    {
+        "id":4,
+        "img":"../../../../../public/Company/destination.png.png",
+        "heading":"Best Price",
+        "Pargagraph":"Price match within 48 hours of order confirmation",
+        "backColor":"#F09814",
+        "state":"drow"
+
+    }
+]

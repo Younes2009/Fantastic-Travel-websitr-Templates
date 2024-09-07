@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "imag":"../../../../../public/Flight/flight6.png.png",
+        "Alt": "This Is Imag 1",
+        "Data1":"09 Jun 2024",
+        "Data2":"16 Jun 2024",
+        "count1":"Denmark",
+        "count2":"New York",
+        "Business1":"$288.15",
+        "Business2":"$288.15",
+        "Set":"18 Seats left"
+    },
+    {
+        "id":2,
+        "imag":"../../../../../public/Flight/flight2.png.png",
+        "Alt": "This Is Imag 1",
+        "Data1":"09 Jun 2024",
+        "Data2":"16 Jun 2024",
+        "count1":"Denmark",
+        "count2":"New York",
+        "Business1":"$288.15",
+        "Business2":"$288.15",
+        "Set":"18 Seats left"
+    },
+    {
+        "id":3,
+        "imag":"../../../../../public/Flight/flight3.png.png",
+        "Alt": "This Is Imag 1",
+        "Data1":"09 Jun 2024",
+        "Data2":"16 Jun 2024",
+        "count1":"Denmark",
+        "count2":"New York",
+        "Business1":"$288.15",
+        "Business2":"$288.15",
+        "Set":"18 Seats left"
+    },
+    {
+        "id":4,
+        "imag":"../../../../../public/Flight/flight4.png.png",
+        "Alt": "This Is Imag 1",
+        "Data1":"09 Jun 2024",
+        "Data2":"16 Jun 2024",
+        "count1":"Denmark",
+        "count2":"New York",
+        "Business1":"$288.15",
+        "Business2":"$288.15",
+        "Set":"18 Seats left"
+    },
+    {
+        "id":5,
+        "imag":"../../../../../public/Flight/flight5.png.png",
+        "Alt": "This Is Imag 1",
+        "Data1":"09 Jun 2024",
+        "Data2":"16 Jun 2024",
+        "count1":"Denmark",
+        "count2":"New York",
+        "Business1":"$288.15",
+        "Business2":"$288.15",
+        "Set":"18 Seats left"
+    },
+    {
+        "id":6,
+        "imag":"../../../../../public/Flight/flight6.png.png",
+        "Alt": "This Is Imag 1",
+        "Data1":"09 Jun 2024",
+        "Data2":"16 Jun 2024",
+        "count1":"Denmark",
+        "count2":"New York",
+        "Business1":"$288.15",
+        "Business2":"$288.15",
+        "Set":"18 Seats left"
+    }
+]

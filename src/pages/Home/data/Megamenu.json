@@ -1,0 +1,147 @@
+[
+  {
+    "label": "Home",
+    "items": [
+      {
+        "label": "Components",
+        "icon": "pi pi-bolt"
+      },
+      {
+        "label": "Blocks",
+        "icon": "pi pi-server"
+      },
+      {
+        "label": "UI Kit",
+        "icon": "pi pi-pencil"
+      }
+    ]
+  },
+  {
+    "label": "Tours",
+    "items": [
+      {
+        "label": "Components",
+        "icon": "pi pi-bolt"
+      },
+      {
+        "label": "Blocks",
+        "icon": "pi pi-server"
+      },
+      {
+        "label": "UI Kit",
+        "icon": "pi pi-pencil"
+      }
+    ]
+  },
+  {
+    "label": "Destinations",
+    "items": [
+      {
+        "label": "Profile",
+        "icon": "pi pi-user"
+      },
+      {
+        "label": "Preferences",
+        "icon": "pi pi-cog"
+      },
+      {
+        "label": "Security",
+        "icon": "pi pi-lock"
+      }
+    ]
+  },
+  {
+    "label": "Activities",
+    "items": [
+      {
+        "label": "Documentation",
+        "icon": "pi pi-file",
+        "url": "https://www.example.com/documentation"
+      },
+      {
+        "label": "Support",
+        "icon": "pi pi-comments",
+        "url": "https://www.example.com/support"
+      }
+    ]
+  },
+  {
+    "label": "Hotel",
+    "items": [
+      {
+        "label": "Documentation",
+        "icon": "pi pi-file",
+        "url": "https://www.example.com/documentation"
+      },
+      {
+        "label": "Support",
+        "icon": "pi pi-comments",
+        "url": "https://www.example.com/support"
+      }
+    ]
+  },
+  {
+    "label": "Rental",
+    "items": [
+      {
+        "label": "Documentation",
+        "icon": "pi pi-file",
+        "url": "https://www.example.com/documentation"
+      },
+      {
+        "label": "Support",
+        "icon": "pi pi-comments",
+        "url": "https://www.example.com/support"
+      }
+    ]
+  },
+  {
+    "label": "Tickets",
+    "items": [
+      {
+        "label": "Documentation",
+        "icon": "pi pi-file",
+        "url": "https://www.example.com/documentation"
+      },
+      {
+        "label": "Support",
+        "icon": "pi pi-comments",
+        "url": "https://www.example.com/support"
+      }
+    ]
+  },
+  {
+    "label": "Pages",
+    "items": [
+      {
+        "label": "Documentation",
+        "icon": "pi pi-file",
+        "url": "https://www.example.com/documentation"
+      },
+      {
+        "label": "Support",
+        "icon": "pi pi-comments",
+        "url": "https://www.example.com/support"
+      }
+    ]
+  },
+  {
+    "label": "Blog",
+    "items": [
+      {
+        "label": "Documentation",
+        "icon": "pi pi-file",
+        "url": "https://www.example.com/documentation"
+      },
+      {
+        "label": "Support",
+        "icon": "pi pi-comments",
+        "url": "https://www.example.com/support"
+      }
+    ]
+  },
+  {
+    "label": "Contact"
+  }
+]
+

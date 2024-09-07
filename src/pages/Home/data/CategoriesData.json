@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "images":"../../../../../public/Categories/Cat1.png",
+        "head":"Venice",
+        "Data":"356 Tours, 248 Activities",
+        "State":"imaging"
+    },
+    {
+        "id":2,
+        "images":"../../../../../public/Categories/Cat2.png",
+        "head":"Amsterdam",
+        "Data":"356 Tours, 248 Activities",
+        "State":"imaging"
+    },
+    {
+        "id":3,
+        "images":"../../../../../public/Categories/Cat3.png",
+        "head":"Budapest",
+        "Data":"356 Tours, 248 Activities",
+        "State":"imaging"
+    },
+    {
+        "id":4,
+        "images":"../../../../../public/Categories/Cat4.png",
+        "head":"Lisbon",
+        "Data":"356 Tours, 248 Activities",
+        "State":"imaging"
+    },
+    {
+        "id":5,
+        "images":"../../../../../public/Categories/Cat5.png",
+        "head":"London",
+        "Data":"356 Tours, 248 Activities",
+        "State":"imaging"
+    },
+    {
+        "id":6,
+        "images":"../../../../../public/Categories/Cat5.png",
+        "head":"Ottawa",
+        "Data":"356 Tours, 248 Activities",
+        "State":"imaging"
+    },
+    {
+        "id":7,
+        "images":"../../../../../public/Categories/Cat5.png",
+        "head":"Ottawa",
+        "Data":"356 Tours, 248 Activities",
+        "State":"imaging"
+    },
+    {
+        "id":8,
+        "images":"Crafting Your Perfect Travel Experience",
+        "Data":"Browse All destinations",
+        "State":"Texting"
+    }
+]

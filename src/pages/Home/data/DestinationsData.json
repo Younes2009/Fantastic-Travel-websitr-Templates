@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "imag":"../../../././../public/Destinstion/paypal.png.png"
+    },
+    {
+        "id":2,
+        "imag":"../../../././../public/Destinstion/mastercard.png.png"
+    },
+    {
+        "id":3,
+        "imag":"../../../././../public/Destinstion/skrill.png.png"
+    },
+    {
+        "id":4,
+        "imag":"../../../././../public/Destinstion/stripe.png.png"
+    }
+]
